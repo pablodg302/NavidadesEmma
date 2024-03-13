@@ -11,8 +11,8 @@ h1{
 }
 
 h1 span{
-  color: #ac0808;
-  font-size: 48px;
+  color: #ac0808 !important;
+  font-size: 48px !important;
 }
 
 /* Start Gallery CSS */
